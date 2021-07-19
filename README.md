@@ -41,7 +41,7 @@ https://developer.android.com/modern-android-development/scorecard
 
 ### Scores for this project
 
-<img width="700" height="350" src="https://github.com/normanaspx/Data-Science/blob/master/resources/challenge/summary.png?raw=true" alt="Home"/>
+<img width="660" height="350" src="https://github.com/normanaspx/Data-Science/blob/master/resources/challenge/summary.png?raw=true" alt="Scores"/>
 
 
 
