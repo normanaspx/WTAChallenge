@@ -35,7 +35,7 @@ Show at the beginning the characters that were selected as favorites.
 
 <img width="400" src="https://github.com/normanaspx/Data-Science/blob/master/resources/challenge/favs.jpeg?raw=true" alt="Home"/>
 
-## Mad Scorecard
+## MAD Scorecard
 It's a plugin for Android Studio so you can see (and share!) just how modern an Android developer you are. <br>
 https://developer.android.com/modern-android-development/scorecard
 
