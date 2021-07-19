@@ -9,7 +9,7 @@
 - Room Database 
 - Recyclerview
 
-### Documentation
+## Documentation
  * [KDoc](https://kotlinlang.org/docs/kotlin-doc.html#kdoc-syntax)
 
 ## Features
