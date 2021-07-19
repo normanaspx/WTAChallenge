@@ -9,6 +9,9 @@
 - Room Database 
 - Recyclerview
 
+### Documentation
+ * KDoc
+
 ## Features
 - Breaking bad character browser.
 - Option to like the character and have it displayed at the top of the list.
