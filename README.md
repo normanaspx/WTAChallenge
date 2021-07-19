@@ -44,8 +44,11 @@ https://developer.android.com/modern-android-development/scorecard
 - Summary: 
 <img width="660" height="350" src="https://github.com/normanaspx/Data-Science/blob/master/resources/challenge/summary.png?raw=true" alt="Scores"/>
 
-- Jetpack Libraries
+- Jetpack Libraries:
 <img width="660" height="350" src="https://github.com/normanaspx/Data-Science/blob/master/resources/challenge/jetpack.png?raw=true" alt="Scores"/>
+
+- Kotlin: 
+<img width="660" height="350" src="https://github.com/normanaspx/Data-Science/blob/master/resources/challenge/kotlin.png?raw=true" alt="Scores"/>
 
 
 
