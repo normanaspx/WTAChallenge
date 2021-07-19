@@ -5,7 +5,7 @@
 - Kotlin
 - MVVM pattern
 - LiveData
-- dependency injection Hilt 
+- Dependency injection Hilt 
 - Room Database 
 - Recyclerview
 
