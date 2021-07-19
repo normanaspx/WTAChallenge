@@ -41,7 +41,11 @@ https://developer.android.com/modern-android-development/scorecard
 
 ### Scores for this project
 
+- Summary: 
 <img width="660" height="350" src="https://github.com/normanaspx/Data-Science/blob/master/resources/challenge/summary.png?raw=true" alt="Scores"/>
+
+- Jetpack Libraries
+<img width="660" height="350" src="https://github.com/normanaspx/Data-Science/blob/master/resources/challenge/jetpack.png?raw=true" alt="Scores"/>
 
 
 
