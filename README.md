@@ -10,7 +10,7 @@
 - Recyclerview
 
 ### Documentation
- * KDoc
+ * [KDoc]("https://kotlinlang.org/docs/kotlin-doc.html#kdoc-syntax")
 
 ## Features
 - Breaking bad character browser.
